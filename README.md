@@ -8,7 +8,14 @@ Her features includes:
 
 * Announce weather's information 
 
-* Learn from me to answer random question
+* A learner:
+  * Learn from me to answer random question
+  * Get questions from me and answer. Fix the answer based on mine.
+
+* A Teacher:
+  * Randomly pops up at a time in a day and asks me some questions : 
+    * Show the real answer
+    * Compare the answer given and real 
 
 
 ## (Feature) Run Python app on windows startup. 
