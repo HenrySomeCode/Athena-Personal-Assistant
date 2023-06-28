@@ -15,7 +15,9 @@ Her features includes:
 * A Teacher:
   * Randomly pops up at a time in a day and asks me some questions : 
     * Show the real answer
-    * Compare the answer given and real 
+    * Compare the answer given and real
+
+* Motivation quotes
 
 
 ## (Feature) Run Python app on windows startup. 
